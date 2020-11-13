@@ -1,0 +1,25 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffsoup/planner.git"
+  },
+  "author": "jeffsoup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffsoup/planner/issues"
+  },
+  "homepage": "https://github.com/jeffsoup/planner#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.4.0"
+  }
+}
